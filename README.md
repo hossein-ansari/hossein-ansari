@@ -1,7 +1,7 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Yo <b>I'm hossein ansari</b> </h3> 
 
-> FrontEnd Developer <br>
+> MERN stack developer <br>
 > I work as a MERN stack developer
 I have keen on Ai & game developing I want to become one. however I'm currently working on frontend & learning JavaScript ,I put most of my time into programming to reach my goals. The other time goes to studying; moreover,im a student.I am a rational person and I like to help everyone
 
