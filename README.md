@@ -1,4 +1,4 @@
-trojan://RX8noiOt8jIv_Ged43I0KQ@us.pc-seller.fun:2083?path=%2F%3Fed%3D2048&security=tls&host=us1.pc-seller.fun&type=ws&sni=us1.pc-seller.fun#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%F0%9F%87%B3%F0%9F%87%B1+%7C+CDN
+
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Yo <b>I'm hossein ansari</b> </h3> 
 
 > MERN stack developer <br>
