@@ -3,7 +3,7 @@
 
 > MERN stack developer <br>
 > I work as a MERN stack developer
-I have keen on Ai & game developing I want to become one. however I'm currently working on frontend & learning JavaScript ,I put most of my time into programming to reach my goals. The other time goes to studying; moreover,im a student.I am a rational person and I like to help everyone
+I have keen on Ai & game developing I want to become one. however I'm currently working on backend and frontend ,I put most of my time into programming to reach my goals. The other time goes to studying; moreover,im a student.I am a rational person and I like to help everyone
 
 <h3 align="center"> 💻 Skills</h3>
 
